@@ -8,5 +8,6 @@
 1. Hold the button '1' and '2' to move the left/right joints connecting yellow arms and the body.
 2. Hold the button '3' and '4' to move the left/right joints connecting cyan arms and yellow arms.
 3. Hold the button '5' and '6' to move the left/right joints connecting magenta arms and cyan arms.
-4. Press the button 'Space Bar' to grip the gripper.
-5. Press the button 'Space Bar' again to release the gripper. (Meaning, Space Bar for gripper works as a toggle, unlike number buttons for each joint.)
+4. Press the button 'Space Bar' to grip the gripper automatically (up to degree 5).
+5. Press the button 'Space Bar' again to release the gripper automatically (up to degree 60).
+   Meaning, Space Bar for gripper works as a toggle, unlike number buttons for each joint.
