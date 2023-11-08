@@ -1,11 +1,7 @@
-This is HW5 of Introduction to Visual Media Programming(MAS2011-01).
-
-Written by 20191104 Juhee Seong   
-On 11.09, 2023
-
-
-Below is the link of the recorded video.
-https://www.youtube.com/watch?v=kjTRMvD_-Go
+**#### This is HW5 of Introduction to Visual Media Programming(MAS2011-01). ####**
+- Written by 20191104 Juhee Seong   
+- On 11.09, 2023
+- Link of the recorded video: https://www.youtube.com/watch?v=kjTRMvD_-Go
 
 
 **How to Play**
